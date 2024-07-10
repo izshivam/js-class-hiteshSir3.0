@@ -32,3 +32,4 @@ console.log(typeof undefined);
 console.log(typeof Boolean);
 console.log(typeof Symbol);
 console.log(typeof BigInt);
+

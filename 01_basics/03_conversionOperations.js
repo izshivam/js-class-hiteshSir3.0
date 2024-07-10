@@ -42,6 +42,7 @@ true => 1, false => 0
 // let isLoggedIn = 1;
 // let booleanIsLoggedIn = Boolean(isLoggedIn)
 // console.log(booleanIsLoggedIn);
+// console.log(typeof booleanIsLoggedIn);
 
 
 // let isLoggedIn = "";
@@ -121,10 +122,6 @@ num1 = num2 = num3 = 2+2
 // console.log(gameCounter);
 
 
-
-let gameCounter = 100;
-gameCounter++;
-console.log(gameCounter);
 
 
 
